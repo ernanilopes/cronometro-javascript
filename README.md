@@ -1,1 +1,1 @@
-Projeto de cronômetro criado com Javascript!
+#Projeto de cronômetro criado com Javascript!
